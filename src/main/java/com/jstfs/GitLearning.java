@@ -8,5 +8,7 @@ public class GitLearning {
 		System.out.println("dev branch");
 		
 		System.out.println("Test no-ff");
+		
+		System.out.println("Test no-ff again");
 	}
 }
