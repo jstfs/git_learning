@@ -12,5 +12,7 @@ public class GitLearning {
 		System.out.println("Test no-ff again");
 		
 		System.out.println("Test fetch merge command");
+		
+		System.out.println("Test merge no-ff");
 	}
 }
