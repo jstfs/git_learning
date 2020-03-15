@@ -17,3 +17,5 @@
 8, dev branch test two persons step 03
 
 9, dev branch test two persons step 04
+
+10, dev branch test confict by 02-person
